@@ -13,13 +13,7 @@ export default function Home() {
 
         <output class="p-10px">Count: {count()}</output>
 
-        <button
-          type="button"
-          class="border rounded-lg px-2 border-slate-900"
-          onClick={() => setCount(count() + 1)}
-        >
-          +
-        </button>
+       
       </div>
     </section>
   );
