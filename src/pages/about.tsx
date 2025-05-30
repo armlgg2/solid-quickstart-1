@@ -13,17 +13,17 @@ export default function About() {
       <h2 class="text-2xl">About</h2>
 
       <p class="mt-4">
-        A page all about this website. <span>We love</span>
+        BBBB. <span>BBBB</span>
         <Suspense fallback={<span>...</span>}>
           <span>&nbsp;{name()}!</span>
         </Suspense>
       </p>
       <p>
         Visit{" "}
-        <a href="https://solidjs.com" target="_blank" class="underline">
-          solidjs.com
+        <a href="https://google.com" target="_blank" class="underline">
+          google.com
         </a>
-        {" "}to learn how to build Solid apps.
+        {" "}Sorry Sorry Sorry
       </p>
     </section>
   );
