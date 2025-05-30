@@ -10,10 +10,7 @@ export default function Home() {
 
       <div class="flex items-center space-x-2 mt-4">
        
-
-        <output class="p-10px">Count: {count()}</output>
-
-       
+      
       </div>
     </section>
   );
