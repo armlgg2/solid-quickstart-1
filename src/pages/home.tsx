@@ -5,17 +5,11 @@ export default function Home() {
 
   return (
     <section class="bg-slate-200 text-slate-700 p-8 rounded-md">
-      <h2 class="text-2xl">HomeAAAAA</h2>
-      <p class="mt-4">AAAA</p>
+      <h2 class="text-2xl">บริษัท ไซเลนเทค จำกัด</h2>
+      <p class="mt-4">SILENTECH COMPANY LIMITED</p>
 
       <div class="flex items-center space-x-2 mt-4">
-        <button
-          type="button"
-          class="border rounded-lg px-2 border-slate-900"
-          onClick={() => setCount(count() - 1)}
-        >
-          -
-        </button>
+       
 
         <output class="p-10px">Count: {count()}</output>
 
