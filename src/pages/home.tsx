@@ -8,7 +8,6 @@ export default function Home() {
       <h2 class="text-2xl">บริษัท ไซเลนเทค จำกัด</h2>
       <p class="mt-4">SILENTECH COMPANY LIMITED</p>
       <p class="mt-4">49/7 หมู่ 9 ต.บางม่วง อ.บางใหญ่ จ.นนทบุรี 11140</p>
-
     </div>
     </section>
   );
