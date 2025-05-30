@@ -14,15 +14,6 @@ const App: Component = (props: { children: Element }) => {
             </A>
           </li>
           
-          <li class="text-sm flex items-center space-x-1 ml-auto">
-            <span>URL:</span>
-            <input
-              class="w-75px p-1 bg-white text-sm rounded-lg"
-              type="text"
-              readOnly
-              value={location.pathname}
-            />
-          </li>
         </ul>
       </nav>
 
