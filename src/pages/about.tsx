@@ -19,7 +19,7 @@ export default function About() {
         </Suspense>
       </p>
       <p>
-        Visit{" "}
+        {" "}
         <a href="https://google.com" target="_blank" class="underline">
           google.com
         </a>
