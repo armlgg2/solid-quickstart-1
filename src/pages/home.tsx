@@ -8,8 +8,7 @@ export default function Home() {
       <h2 class="text-2xl">บริษัท ไซเลนเทค จำกัด</h2>
       <p class="mt-4">SILENTECH COMPANY LIMITED</p>
 
-      //<div class="flex items-center space-x-2 mt-4">
-       
+   
       
       </div>
     </section>
