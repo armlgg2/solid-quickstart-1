@@ -6,10 +6,7 @@ export default function Home() {
   return (
     <section class="bg-slate-200 text-slate-700 p-8 rounded-md">
       <h2 class="text-2xl">บริษัท ไซเลนเทค จำกัด</h2>
-      <p class="mt-4">SILENTECH COMPANY LIMITED</p>
-
-   
-      
+      <p class="mt-4">SILENTECH COMPANY LIMITED</p>   
       </div>
     </section>
   );
